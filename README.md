@@ -1,4 +1,4 @@
-# Spring Social Media Blog API
+# Social Media Messaging API With Spring 
 
 ## Project Overview
 
