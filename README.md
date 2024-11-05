@@ -1,10 +1,12 @@
-#Social Media Blog API
+# Spring Social Media Blog API
 
-##Project Overview
-This social media application will be an api backend without a frontend. The app will have the ability to manage user accounts and messages that they submit to the application. Users will be able to see all of the messages posted to the site as well as the messages posted by a particular user. In either case, we require a backend which is able to deliver the data needed to display this information as well as process actions like logins, registrations, message creations, message updates, and message deletions.
+## Project Overview
 
-##Responsibilities:
-Using Javalin and JDBC, developed a messaging app backend. The backend featured necessary Messages and Account DAO and Service classes and a controller to handle endpoints. This backend was able to function and pass test cases for the following user stories:
+This social media application will be an api backend without a frontend. This may sound familiar, as this was the goal of your previous capstone project. Here the app will have the  same functionality, including the ability to manage user accounts and messages that they submit to the application. However, this application should be created using the Spring Framework, including Spring Boot, and Spring Web.
+Similar to the previous iteration of this project, the backend you will create needs to be able to deliver the data needed to display this information as well as process actions like logins, registrations, message creations, message updates, and message deletions.
+ 
+## Responsibilities:
+Using the Spring Framework, Spring Boot, and Spring MVC, developed a messaging app backend. The backend featured AccountService, MessageService, AccountRepository, Message Repository, and SocialMediaController to handle endpoints. This backend was able to function and pass Spring Test cases for the following user stories:
 •	Process new user registrations
 •	process user logins
 •	Create new messages
@@ -14,6 +16,5 @@ Using Javalin and JDBC, developed a messaging app backend. The backend featured 
 •	Update a message by ID
 •	Retrieve all message by user
  
-
-##Environment:
-Java, Javalin, JDBC
+## Environment:
+Spring Boot, Spring Data, Spring Framework
