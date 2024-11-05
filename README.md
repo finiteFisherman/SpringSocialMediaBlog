@@ -7,14 +7,15 @@ Similar to the previous iteration of this project, the backend you will create n
  
 ## Responsibilities:
 Using the Spring Framework, Spring Boot, and Spring MVC, developed a messaging app backend. The backend featured AccountService, MessageService, AccountRepository, Message Repository, and SocialMediaController to handle endpoints. This backend was able to function and pass Spring Test cases for the following user stories:
-•	Process new user registrations
-•	process user logins
-•	Create new messages
-•	Retrieve all messages
-•	Retrieve a message by ID
-•	Delete a message by ID
-•	Update a message by ID
-•	Retrieve all message by user
+
+### Process new user registrations
+### process user logins
+### Create new messages
+### Retrieve all messages
+### Retrieve a message by ID
+### Delete a message by ID
+### Update a message by ID
+### Retrieve all message by user
  
 ## Environment:
 Spring Boot, Spring Data, Spring Framework
